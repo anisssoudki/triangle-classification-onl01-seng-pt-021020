@@ -2,6 +2,7 @@ class Triangle
   
   def initialize(a,b,c)
     
+    def kind
     if a == b && b == c 
       puts "equilteral"
       elsif a == b && b != c 
@@ -9,7 +10,7 @@ class Triangle
     else
      puts  "scalene"
     end
-      
+    end
       
     
   end
