@@ -7,7 +7,7 @@ class Triangle
       elsif a == b && b != c 
       puts "isosceles"
     else
-      "scalene"
+     puts  "scalene"
     end
       
       
