@@ -7,9 +7,8 @@ class Triangle
       elsif a == b && b != c 
       "isosceles"
     else
-      "scalene
-      end
-      end"
+      "scalene"
+    end
       
       
     
